@@ -1,4 +1,4 @@
-#Getting and cleaning data - course project
+#Accelerometers data from the Samsung Galaxy S smartphone - Data Extraction and Cleaning
 
 ##Introduction:
 
