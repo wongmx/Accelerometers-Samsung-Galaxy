@@ -1,4 +1,4 @@
-#Accelerometers data from the Samsung Galaxy S smartphone - Data Extraction and Cleaning
+#Accelerometers data from the Samsung Galaxy S smartphone
 
 ##Introduction:
 
